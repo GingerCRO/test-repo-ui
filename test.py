@@ -1,3 +1,6 @@
-aws_access_key = "AKIAIOSFODNN7EXAMPLE"
-db_password = "p@ssW0rd123!"
-secret_token = "8f4e5d6c7b8a9f0e1d2c3b4a5f6g7h8i"
+# Dummy secrets for testing scanner
+
+AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE"
+AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
+jwt_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3MDAwMDAwMDB9.Q8ZpKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
